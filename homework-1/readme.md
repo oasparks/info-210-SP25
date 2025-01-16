@@ -2,16 +2,31 @@
 
 ### Websites vs Web Applications
 
-Brief description of understanding. Use any combination of markdown techniques. Should be more than 2 sentences.
+A website is mainly informative, whereas a web application is interactive. A college site would be a website, but something like google docs would be a web application. Websites are built using html, java, and css.
 
 ### VS Code & Extensions
 
-Brief description of understanding. Use any combination of markdown techniques. Should be more than 2 sentences.
+- we code in this
+- preview with live server lets you see/ test your site in a browser while you are working on it
+  -prettier helps format the code
 
 ### Version Control, Git, & GitHub
 
-Brief description of understanding. Use any combination of markdown techniques. Should be more than 2 sentences.
+- commit makes a snapshot of the code
+- you have to add a note
+- publish branch pushes code from the computer
+- git pull: grabs code from git to the computer
+- git push: code goes from the computer to git
 
 ### Markdown & Documentation
 
-Brief description of understanding. Use any combination of markdown techniques. Should be more than 2 sentences.
+markdown is used for readme pages. It is common practice to add one for github repositories giving information about the project.
+
+- "#" makes a heading
+- "\*\*" makes something bold
+- "\*" makes something italic
+- "```" plus the coding language to add code snippets
+
+### **canvas page with more info-**
+
+https://iu.instructure.com/courses/2298808/pages/markdown-basics?module_item_id=34165591
