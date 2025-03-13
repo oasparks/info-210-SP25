@@ -1,0 +1,145 @@
+* {
+ margin: 0;
+ padding: 0;
+ box-sizing: border-box;
+}
+html, body {
+ height: 100%
+}
+h1, h2, h3, h4, h5, h6, p {
+ margin-bottom: 16px
+}
+
+body{
+   font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+nav{
+    background-color: lavender;
+    height: 51px;
+    padding: 10px;
+    align-content: center;
+}
+nav ul{
+    display:flex;
+    justify-content:;
+    align-items: flex-end;
+
+    gap: 40px;
+    list-style: none;
+    margin-left: 20px;
+
+}
+
+nav ul li a{
+    display:block;
+    color: black;
+    text-decoration: none; 
+}
+
+nav ul li a.active{
+    border-bottom: 1px solid black;
+}
+
+nav ul li a.logo{
+   font-weight: bold;
+}
+
+section{
+   
+    align-items: center;
+    margin-top: 50px;
+}
+
+.hero{
+    display: flex;
+}
+section img{
+    height: 300px;
+    width: 500px;
+    margin-left: 50px;
+}
+
+section div{
+    justify-content: center;
+    margin-left: 10px;
+}
+
+section button{
+    background-color: black;
+    color: lavender;
+    border-radius: 5%;
+    padding: 10px;
+    gap: 10px;
+}
+
+
+
+
+h2{
+    text-decoration: underline;  
+    margin-left: 60px;
+}
+
+section ul{
+display: flex;
+padding: 50px;
+list-style: none;
+}
+
+section ul li img{
+    
+    height: 200px;
+    width: 200px;
+}
+
+.cataloglink{
+    margin-bottom: 60px;
+    margin-left: 60px;
+
+}
+
+section2 h1{
+    margin-left: 60px;
+}
+section2 p{
+    margin-left: 60px;
+}
+section2 img{
+    margin-left: 60px;
+}
+
+section2 ul{
+    margin-top: 20px;
+    display: flex;
+    list-style: none;
+    }
+    
+    section2 ul li img{
+        
+        width: 300px;
+        height: 200px;
+    }
+    section2 ul li h4{
+        width: 300px;
+        font-size: 14px;
+        margin-left: 60px;
+    }
+
+    section3{
+        justify-content: center;
+    }
+    #catalog{
+
+        display: flex;
+       align-items: center;
+    }
+    #catalog article{
+        width: 400px;
+    }
+    #catalog img{
+width: 200px;
+height: 200px
+    }
+
+  
